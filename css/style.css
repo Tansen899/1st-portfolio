@@ -47,6 +47,7 @@ section .half-width img {
   background-image:url(../img/dream-bg.png);
   background-position: right;
   background-repeat: no-repeat;
+  width: 100%;
 }
 
 .dream-big .flexible-container{
@@ -73,8 +74,8 @@ section .half-width img {
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px rgb(51, 48, 48);
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 4%;
+    margin-right: 2%;
    
 }
 
@@ -90,9 +91,7 @@ section .half-width img {
     border-image-slice: 1;
 }
 
-p{
-    text-align: justify;
-}
+
 
 footer p {
     text-align: center;
