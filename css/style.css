@@ -11,7 +11,7 @@ h1{
     color: orange;
 }
 
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -35,12 +35,18 @@ section .half-width img {
 }
 
 .top-banner{
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
 
 .dream-big{
+  background-image:url(../img/dream-bg.png);
   background-position: right;
   background-repeat: no-repeat;
+}
+
+.dream-big .flexible-container{
+    display: flex;
 }
 
 .half-width img{
