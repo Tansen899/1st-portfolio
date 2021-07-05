@@ -48,6 +48,7 @@ section .half-width img {
   background-position: right;
   background-repeat: no-repeat;
   width: 100%;
+  padding-bottom: 200px;
 }
 
 .dream-big .flexible-container{
@@ -67,11 +68,12 @@ section .half-width img {
     background-image: url(../img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    padding-bottom: 100px;
 }
 
 .experiance-item {
     width: 40%;
-    padding-left: 20px;
+    padding-left: 30px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px rgb(51, 48, 48);
     margin-left: 4%;
@@ -90,8 +92,6 @@ section .half-width img {
     border-image: linear-gradient(rgb(19, 117, 150),rgb(231, 231, 3));
     border-image-slice: 1;
 }
-
-
 
 footer p {
     text-align: center;
