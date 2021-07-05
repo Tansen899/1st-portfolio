@@ -93,3 +93,9 @@ section .half-width img {
 p{
     text-align: justify;
 }
+
+footer p {
+    text-align: center;
+    color: black;
+    background-color: greenyellow;
+}
