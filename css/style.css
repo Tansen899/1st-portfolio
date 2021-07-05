@@ -89,3 +89,7 @@ section .half-width img {
     border-image: linear-gradient(rgb(19, 117, 150),rgb(231, 231, 3));
     border-image-slice: 1;
 }
+
+p{
+    text-align: justify;
+}
